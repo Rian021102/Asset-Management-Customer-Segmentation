@@ -9,3 +9,10 @@ Once the algorithm has identified the clusters, you can analyze each cluster to 
 Overall, using k-means for customer segmentation can help asset managers better understand and serve their customers, potentially leading to increased customer satisfaction and loyalty.
 
 As for the decision number of cluster, I'm using both the elbow method and Sillhoute Plot to determine number of cluster. The elbow method and silhouette plots are two techniques that can be used to determine the optimal number of clusters for a k-means clustering analysis. Both methods can be useful for finding the "right" number of clusters to use in a particular analysis, as choosing the wrong number of clusters can lead to suboptimal results.
+
+
+All the Dataset is stored in this folder on my google drive. You can access them in here
+
+https://drive.google.com/drive/folders/1jxzWZ8-gZuqTmG-DCs7vFsYRDRTfM9fL?usp=sharing
+
+
