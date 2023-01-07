@@ -10,7 +10,7 @@ The objective of this project is to:
   - Draw insight from data to better understand the users demographic who use this mutual fund app
   - Make users segmentation using K-Means to cluster users based on their common traits
 
-
+## Dataset Location
 All the Dataset is stored in this folder on my google drive. You can access them in here
 
 https://drive.google.com/drive/folders/1jxzWZ8-gZuqTmG-DCs7vFsYRDRTfM9fL?usp=sharing
