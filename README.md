@@ -20,7 +20,11 @@ The objective of this project is to:
 **Most Popular Mutual Funds :**
   
   ![Unknown](https://user-images.githubusercontent.com/108880724/211131545-c7630827-382c-4796-b927-187a9491a168.png)
-  
+
+**Cluster 0 Most Invested Mutual Funds:**
+
+  ![Unknown-2](https://user-images.githubusercontent.com/108880724/211133350-299eb6aa-8e34-46f0-a7ef-c592c6c8a895.png)
+
 
 
 ## Dataset Location
