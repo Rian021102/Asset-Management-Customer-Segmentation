@@ -18,7 +18,7 @@ The objective of this project is to:
   - Make users segmentation using K-Means to cluster users based on their common traits
   
   ![Unknown](https://user-images.githubusercontent.com/108880724/211131545-c7630827-382c-4796-b927-187a9491a168.png)
-** Most Popular Mutual Funds **
+**Most Popular Mutual Funds**
 
 ## Dataset Location
 All the Dataset is stored in this folder on my google drive. You can access them in here
