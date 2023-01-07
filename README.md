@@ -17,13 +17,15 @@ The objective of this project is to:
   - Draw insight from data to better understand the users demographic who use this mutual fund app using EDA
   - Make users segmentation using K-Means to cluster users based on their common traits
 
+## Result
+
 **Most Popular Mutual Funds :**
   
   ![Unknown](https://user-images.githubusercontent.com/108880724/211131545-c7630827-382c-4796-b927-187a9491a168.png)
 
 **Cluster 0 Most Invested Mutual Funds:**
 
-  ![Unknown-2](https://user-images.githubusercontent.com/108880724/211133350-299eb6aa-8e34-46f0-a7ef-c592c6c8a895.png)
+ ![Unknown-3](https://user-images.githubusercontent.com/108880724/211133395-ad4c4680-1e5b-4da0-8573-bdd410c38477.png)
 
 
 
